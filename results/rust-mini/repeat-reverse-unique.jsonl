@@ -1,0 +1,14 @@
+{"lang":"rust","impl":"sort","type":"i32","dist":"reverse","n":1000000,"rep":1,"ms":1.7021,"ns_el":1.702,"ok":true}
+{"lang":"rust","impl":"sort","type":"i32","dist":"reverse","n":1000000,"rep":2,"ms":1.7024,"ns_el":1.702,"ok":true}
+{"lang":"rust","impl":"sort","type":"i32","dist":"reverse","n":1000000,"rep":3,"ms":1.7023,"ns_el":1.702,"ok":true}
+{"lang":"rust","impl":"sort","type":"i32","dist":"reverse","n":1000000,"rep":4,"ms":1.7044,"ns_el":1.704,"ok":true}
+{"lang":"rust","impl":"sort","type":"i32","dist":"reverse","n":1000000,"rep":5,"ms":1.7026,"ns_el":1.703,"ok":true}
+{"lang":"rust","impl":"sort","type":"i32","dist":"reverse","n":1000000,"rep":6,"ms":1.7023,"ns_el":1.702,"ok":true}
+{"lang":"rust","impl":"sort","type":"i32","dist":"reverse","n":1000000,"rep":7,"ms":1.7023,"ns_el":1.702,"ok":true}
+{"lang":"rust","impl":"sort_unstable","type":"i32","dist":"reverse","n":1000000,"rep":1,"ms":1.6967,"ns_el":1.697,"ok":true}
+{"lang":"rust","impl":"sort_unstable","type":"i32","dist":"reverse","n":1000000,"rep":2,"ms":1.6966,"ns_el":1.697,"ok":true}
+{"lang":"rust","impl":"sort_unstable","type":"i32","dist":"reverse","n":1000000,"rep":3,"ms":1.6965,"ns_el":1.697,"ok":true}
+{"lang":"rust","impl":"sort_unstable","type":"i32","dist":"reverse","n":1000000,"rep":4,"ms":1.6998,"ns_el":1.700,"ok":true}
+{"lang":"rust","impl":"sort_unstable","type":"i32","dist":"reverse","n":1000000,"rep":5,"ms":1.7012,"ns_el":1.701,"ok":true}
+{"lang":"rust","impl":"sort_unstable","type":"i32","dist":"reverse","n":1000000,"rep":6,"ms":1.7012,"ns_el":1.701,"ok":true}
+{"lang":"rust","impl":"sort_unstable","type":"i32","dist":"reverse","n":1000000,"rep":7,"ms":1.7012,"ns_el":1.701,"ok":true}

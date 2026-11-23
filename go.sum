@@ -1,0 +1,4 @@
+github.com/zhangyunhao116/fastrand v0.2.1 h1:H5FygwAWuYF7IqJKrdWBbphgHffRC07okNQjT2qbGB4=
+github.com/zhangyunhao116/fastrand v0.2.1/go.mod h1:0v5KgHho0VE6HU192HnY15de/oDS8UrbBChIFjIhBtc=
+github.com/zhangyunhao116/pdqsort v0.0.0-20230117091528-34e3e0dc63fb h1:xmryNZAQJ8OPXmCQ0sQizJlG8h6r0Ab1HwiKH5WLodE=
+github.com/zhangyunhao116/pdqsort v0.0.0-20230117091528-34e3e0dc63fb/go.mod h1:7q5V9v3/WEljQOIkYc+8Dn/Wnn/lRDNAid+PhSQ6B1c=

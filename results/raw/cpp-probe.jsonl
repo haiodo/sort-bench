@@ -1,0 +1,14 @@
+{"lang":"cpp","impl":"std::sort/ptr","type":"i32","dist":"random","n":1000000,"rep":1,"ms":51.0371,"ns_el":51.037,"ok":true}
+{"lang":"cpp","impl":"std::sort/ptr","type":"i32","dist":"random","n":1000000,"rep":2,"ms":50.5912,"ns_el":50.591,"ok":true}
+{"lang":"cpp","impl":"std::sort/ptr","type":"i32","dist":"random","n":1000000,"rep":3,"ms":50.7015,"ns_el":50.702,"ok":true}
+{"lang":"cpp","impl":"std::sort/ptr","type":"i32","dist":"random","n":1000000,"rep":4,"ms":50.9592,"ns_el":50.959,"ok":true}
+{"lang":"cpp","impl":"std::sort/ptr","type":"i32","dist":"random","n":1000000,"rep":5,"ms":50.6716,"ns_el":50.672,"ok":true}
+{"lang":"cpp","impl":"std::sort/ptr","type":"i32","dist":"random","n":1000000,"rep":6,"ms":50.8007,"ns_el":50.801,"ok":true}
+{"lang":"cpp","impl":"std::sort/ptr","type":"i32","dist":"random","n":1000000,"rep":7,"ms":50.9948,"ns_el":50.995,"ok":true}
+{"lang":"cpp","impl":"std::sort/ptr","type":"i32","dist":"random","n":10000000,"rep":1,"ms":590.6955,"ns_el":59.070,"ok":true}
+{"lang":"cpp","impl":"std::sort/ptr","type":"i32","dist":"random","n":10000000,"rep":2,"ms":590.3699,"ns_el":59.037,"ok":true}
+{"lang":"cpp","impl":"std::sort/ptr","type":"i32","dist":"random","n":10000000,"rep":3,"ms":589.7388,"ns_el":58.974,"ok":true}
+{"lang":"cpp","impl":"std::sort/ptr","type":"i32","dist":"random","n":10000000,"rep":4,"ms":589.9909,"ns_el":58.999,"ok":true}
+{"lang":"cpp","impl":"std::sort/ptr","type":"i32","dist":"random","n":10000000,"rep":5,"ms":590.6653,"ns_el":59.067,"ok":true}
+{"lang":"cpp","impl":"std::sort/ptr","type":"i32","dist":"random","n":10000000,"rep":6,"ms":590.4647,"ns_el":59.046,"ok":true}
+{"lang":"cpp","impl":"std::sort/ptr","type":"i32","dist":"random","n":10000000,"rep":7,"ms":589.3150,"ns_el":58.931,"ok":true}
